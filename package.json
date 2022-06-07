@@ -1,8 +1,8 @@
 {
   "name": "moonsharp",
   "displayName": "MoonSharp",
-  "version": "2.0.0-dev",
-  "description": "Unity package of moonsharp Lua interpreter and  debugger",
+  "version": "2.0.0-upm.533e8b0",
+  "description": "Unity package of moonsharp Lua interpreter and debugger",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fabschneider/moonsharp.git"
